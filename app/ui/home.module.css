@@ -1,0 +1,9 @@
+/* This class defines a shape with a triangular appearance */
+
+.shape {
+    height: 0; 
+    width: 0;
+    border-bottom: 30px solid black; /* Creates the bottom border of the triangle */
+    border-left: 20px solid transparent; /* Creates the left side of the triangle */
+    border-right: 20px solid transparent; /* Creates the right side of the triangle */
+}
